@@ -6,7 +6,7 @@ The Fitness Tracker application was created to help track the distance, duration
 
 
 ## Link to Application 
-[Workout Tracker!]()
+[Fitness Tracker!](https://ancient-fjord-45174.herokuapp.com)
 
 # Screenshot :
 
