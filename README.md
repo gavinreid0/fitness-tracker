@@ -10,7 +10,7 @@ The Fitness Tracker application was created to help track the distance, duration
 
 # Screenshot :
 
-|![Fitness Tracker]()|![Fitness Tracker Dashboard]()
+|![Fitness Tracker](Assets/fitnessTrackerHP.png)|![Fitness Tracker Dashboard](Assets/FitnessTrackerDb.png)
 
 # Installation
  `npm install` to install dependencies.
